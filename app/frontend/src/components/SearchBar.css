@@ -1,0 +1,23 @@
+.searchInputs{
+    display:flex;
+}
+
+
+.search input[type=text] {
+    border: 1px solid #ccc;
+}
+
+.search input[type=text] {
+    float: center;
+    padding:10px 5px 15px 20px;
+    border: none;
+    font-size: 17px;
+    border-radius: 10px;
+    width: 500px;
+  }
+
+.dataResult{
+    color:black;
+    font-family: sans-serif;
+    text-decoration: bold;
+}
